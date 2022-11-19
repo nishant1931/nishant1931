@@ -5,5 +5,5 @@
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP**
 - ✴️ Also knowledge in **Node.js, Expressjs and MongoDB**
 - 🌱 I’m also currently learning **REACTJS and TYPESCRIPT**
-- 💻 Currently working as a **Web Developer*
+- 💻 Currently working as a **Web Developer**
 - 📫 How to reach me sharmanishant1908@gmail.com
