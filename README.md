@@ -4,6 +4,6 @@
 - 🔭 I’m currently working on **Website Development** 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT.JS**
 - ✴️ Also knowledge in **Node.js, Expressjs and MongoDB**
-- 🌱 I’m also currently learning **NEXTJS and TYPESCRIPT**
-- 💻 Currently working as a **Web Developer**
+- 🌱 I’m also learning **NEXTJS and TYPESCRIPT**
+- 💻 Currently working as a **Software Developer**
 - 📫 How to reach me sharmanishant1908@gmail.com
